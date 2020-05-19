@@ -12,8 +12,8 @@
 	<p align="center"> <img  src="https://cdn1.vectorstock.com/i/1000x1000/63/85/education-study-star-logo-vector-5076385.jpg"  height="150"  width="150" ></p>
 	<hr>
 
-	<iframe width="650" height="350" src="https://www.youtube.com/embed/2u3isqISJ0Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	<iframe width="650" height="350" src="https://www.youtube.com/embed/dYcQ2B_3xIg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="600" height="350" src="https://www.youtube.com/embed/2u3isqISJ0Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="600" height="350" src="https://www.youtube.com/embed/dYcQ2B_3xIg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<hr>
 
 	<p style="color: rebeccapurple">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Purus semper eget duis at tellus at. Tempus urna et pharetra pharetra massa massa ultricies mi. Ac ut consequat semper viverra nam libero. Massa ultricies mi quis hendrerit. Sed risus pretium quam vulputate dignissim suspendisse in est. In mollis nunc sed id semper risus in. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Sed pulvinar proin gravida hendrerit lectus a. Eget nullam non nisi est sit amet facilisis magna etiam. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Varius morbi enim nunc faucibus a pellentesque sit amet. Condimentum mattis pellentesque id nibh tortor id aliquet. Libero nunc consequat interdum varius sit. Leo integer malesuada nunc vel risus commodo viverra. Dictum non consectetur a erat nam at.</p>
