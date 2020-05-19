@@ -27,7 +27,7 @@
 <p style="color: red">Egestas diam in arcu cursus euismod quis. Praesent semper feugiat nibh sed pulvinar proin. Pretium vulputate sapien nec sagittis aliquam malesuada. Consequat ac felis donec et odio pellentesque diam. Fusce ut placerat orci nulla pellentesque. Semper risus in hendrerit gravida rutrum quisque non tellus. Diam maecenas sed enim ut sem viverra aliquet. Sollicitudin nibh sit amet commodo nulla facilisi. Condimentum vitae sapien pellentesque habitant morbi. Netus et malesuada fames ac turpis. Eros donec ac odio tempor orci dapibus ultrices in.</p>
 <hr>
 
-<table border="1" style="height: 300px; width: 300px;">
+<table border="1" style="height: 100px; width: 100px;">
 		<thead>
 			<tr align="center">
 				<th>ID</th>
