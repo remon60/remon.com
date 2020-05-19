@@ -1,8 +1,6 @@
 <html>
 	<head>
-	
 		<title>Remon's Website</title>
-		
 		
 	</head>
 
